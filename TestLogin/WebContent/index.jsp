@@ -103,6 +103,7 @@
 	  FB.logout(function(response) {
 		   // Person is now logged out
 		});
+	  
   }
 </script>
 <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
